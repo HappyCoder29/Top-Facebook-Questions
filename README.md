@@ -15,3 +15,5 @@ Top Facebook Questions
 
 
 7. Find First bad version [Youtube Video](https://www.youtube.com/watch?v=25VxtXbKhfk) [Leet Code Link](https://leetcode.com/problems/first-bad-version//) [GitHub Link](https://github.com/HappyCoder29/Top-Facebook-Questions/blob/master/FindFirstBadVersion/src/edu/northeastern/ashish/Main.java) 
+
+8. Interval Intersection [Youtube Video](https://www.youtube.com/watch?v=IKYUQF1qA5M) [Leet Code Link](https://leetcode.com/problems/interval-list-intersections/) [GitHub Link](https://github.com/HappyCoder29/Top-Facebook-Questions/tree/master/IntervalIntersection/src/edu/northeastern/ashish) 
