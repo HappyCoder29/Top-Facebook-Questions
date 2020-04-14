@@ -12,3 +12,6 @@ Top Facebook Questions
 5. Valid Palindrome II Delete atmost 1 characters [Youtube Video](https://www.youtube.com/watch?v=hSK4Y_CBFy4) [Leet Code Link](https://leetcode.com/problems/valid-palindrome-ii/) [GitHub Link](https://github.com/HappyCoder29/Top-Facebook-Questions/blob/master/ValidPalindromeDeleteOneChar/src/edu/northeastern/ashish/Main.java) 
 
 6. Valid Palindrome Discard Special Characters and case [Youtube Video](https://www.youtube.com/watch?v=E07rE2kz-_M) [Leet Code Link](https://leetcode.com/problems/valid-palindrome/) [GitHub Link](https://github.com/HappyCoder29/Top-Facebook-Questions/blob/master/ValidPalindromeCharactersOnly/src/edu/northeastern/ashish/Main.java) 
+
+
+7. Find First bad version [Youtube Video](https://www.youtube.com/watch?v=25VxtXbKhfk) [Leet Code Link](https://leetcode.com/problems/first-bad-version//) [GitHub Link](https://github.com/HappyCoder29/Top-Facebook-Questions/blob/master/FindFirstBadVersion/src/edu/northeastern/ashish/Main.java) 
